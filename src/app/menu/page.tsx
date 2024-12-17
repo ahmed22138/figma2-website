@@ -19,7 +19,7 @@ export default function Menu(){
 
        <div>
       <Image src={'/images/,.png'} alt="//" width={448} height={626} className="mm"/>
-        <Image src={'/images/cofee (1).png'} alt=".." width={25} height={25} className="ttg"/>
+        <Image src={'/images/Coffee (1).png'} alt=".." width={25} height={25} className="ttg"/>
         
          <h1 className="klq">Starter Menu</h1>
          <Image src={'/images/Component 49.png'} alt=",," width={760} height={111} className="ml"/>
