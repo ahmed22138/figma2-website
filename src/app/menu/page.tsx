@@ -74,7 +74,7 @@ export default function Menu(){
           <div className="hgs">
             <p>Partners & Clients</p>
             <h1>We work with the best people </h1>
-            <Image src={'/images/logo.png'} alt="/" width={1322} height={130} />
+            <Image src={'/images/Logo.png'} alt="/" width={1322} height={130} />
           </div>
            
            <div>
