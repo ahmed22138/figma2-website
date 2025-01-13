@@ -1394,7 +1394,7 @@ font-weight: 700;
 .hi15 h2{
   position: absolute;
   top: 18.5vw;
-  color: rgb(200, 200, 200);
+  color: rgb(255, 255, 255);
   left: 48vw;
 }
 
@@ -1404,7 +1404,7 @@ font-weight: 700;
 
 
 .litsn{
-  background:rgb(226, 226, 226);
+  background:rgb(241, 241, 241);
   height: 40vw;
   width: 26vw;
   position: absolute;
@@ -1502,9 +1502,63 @@ margin-top: 38vw;
 }
 
 
+/* our chefs */
+
+.mtts h1{
+   font-size: 2vw;
+   font-weight: bold;
+   color:white;
+   position: absolute;
+   top: 220px;
+   left: 710px;
+}
+
+.mtts h2{
+  position: absolute;
+  top: 270px;
+  left: 730px;
+  color:white;
+}
+
+.mtts span{
+  color:rgb(255, 159, 13, 1);
+}
 
 
 
 
+.tsc1{
+  margin-top: 100px;
+  display: flex;
+  height: 390px;
+  width: 280px;
+  background: #ffffff;
+  margin-left: 80px;
+ 
+}
 
+.dix{
+  margin-top: 340px;
+  margin-left: -200px;
+}
 
+.dix h1{
+  font-size: larger;
+  font-weight: bold;
+}
+
+.dix p{
+  margin-left: 50px;
+}
+
+.nlf{
+  display: flex;
+}
+
+.kkla{
+  display: flex;
+}
+
+.mnlc{
+  display: flex;
+}

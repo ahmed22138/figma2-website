@@ -3,6 +3,7 @@ import Image from "next/image"
 import next from "next"
 import Footer from "./footer"
 import Navbar from "./nav"
+import Link from "next/link"
 
 
 
@@ -175,7 +176,7 @@ export default function Hero(){
               <Image src={'/images/Chef Card 1 (6).png'} alt="/" width={312} height={391} />
               </div>
               <div className="uu">
-               <button className="ki1232">See More</button>
+           <Link href={'/chefs'} ><button className="ki1232">See More</button> </Link>
                </div>
 
              </div>
