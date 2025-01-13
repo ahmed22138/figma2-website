@@ -154,7 +154,7 @@ export default function Hero(){
            
              <div className="name1">
 
-               <Image src={'/images/chefs.png'} alt="//" width={56} height={40} className="k122"/>
+               <Image src={'/images/Chefs.png'} alt="//" width={56} height={40} className="k122"/>
 
                <h1 className="h9"><span>Me</span>et Our Chef</h1>
              

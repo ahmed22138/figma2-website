@@ -19,7 +19,7 @@ export default function Menu(){
 
        <div>
       <Image src={'/images/,.png'} alt="//" width={448} height={626} className="mm"/>
-        <Image src={'/images/coffee (1).png'} alt=".." width={25} height={25} className="ttg"/>
+        <Image src={'/images/Coffee (1).png'} alt=".." width={25} height={25} className="ttg"/>
         
          <h1 className="klq">Starter Menu</h1>
          <Image src={'/images/Component 49.png'} alt=",," width={760} height={111} className="ml"/>
@@ -30,7 +30,7 @@ export default function Menu(){
 
         <div>
         <Image src={'/images/ml.png'} alt=",," width={448} height={626} className="j"/>
-        <Image src={'/images/coffee (1).png'} alt=".." width={25} height={25} className="tgr"/>
+        <Image src={'/images/Coffee (1).png'} alt=".." width={25} height={25} className="tgr"/>
         
         <h1 className="r1">Main Course</h1>
         <Image src={'/images/Component 49 (2).png'} alt=",," width={750} height={111} className="ma"/>
@@ -45,7 +45,7 @@ export default function Menu(){
 
           <div>
           <Image src={'/images/l.png'} alt=",," width={448} height={626} className="plp"/>
-          <Image src={'/images/coffee (1).png'} alt=".." width={25} height={25} className="tff"/>
+          <Image src={'/images/Coffee (1).png'} alt=".." width={25} height={25} className="tff"/>
 
           <h1 className="njm">Desert</h1>
         <Image src={'/images/23 (4).png'} alt=",," width={750} height={111} className="nx"/>
@@ -58,7 +58,7 @@ export default function Menu(){
 
           <div>
           <Image src={'/images/k.png'} alt=",," width={448} height={626} className="a"/>
-        <Image src={'/images/coffee (1).png'} alt=".." width={25} height={25} className="b"/>
+        <Image src={'/images/Coffee (1).png'} alt=".." width={25} height={25} className="b"/>
         
         <h1 className="r2">Drink</h1>
         <Image src={'/images/21 (4).png'} alt=",," width={750} height={111} className="za"/>
@@ -74,7 +74,7 @@ export default function Menu(){
           <div className="hgs">
             <p>Partners & Clients</p>
             <h1>We work with the best people </h1>
-            <Image src={'/images/logo.png'} alt="/" width={1322} height={130} />
+            <Image src={'/images/Logo.png'} alt="/" width={1322} height={130} />
           </div>
            
            <div>
