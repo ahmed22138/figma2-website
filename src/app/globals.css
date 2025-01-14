@@ -1562,3 +1562,123 @@ margin-top: 38vw;
 .mnlc{
   display: flex;
 }
+
+
+/* blog */
+
+.nixc{
+  margin-top: 200px;
+  margin-left: 95px;
+}
+
+.container {
+  display: flex;
+  justify-content: flex-start;
+  gap: 20px;
+  align-items: center;
+  background-color: white;
+  padding: 10px;
+  border-radius: 8px;
+ 
+}
+
+.dropdownGroup {
+  display: flex;
+  align-items: center;
+  
+  gap: 10px;
+}
+
+.label {
+  font-size: 14px;
+  font-weight: 700;
+  color: #333;
+
+}
+
+.dropdown {
+  padding: 8px 30px;
+  font-size: 14px;
+  color: #555;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: #fff;
+  outline: none;
+  cursor: pointer;
+}
+
+.dropdown:focus {
+  border-color: #0070f3;
+  box-shadow: 0 0 0 2px rgba(0, 112, 243, 0.2);
+}
+
+
+
+/*  */
+.nlt{
+  display: flex;
+  width: 1000px;
+  margin-left: 120px;
+  margin-top: 40px;
+}
+
+.tsc12{
+  margin-left: -20px;
+  width: 700px;
+}
+
+.tsc13{
+  margin-left: 20px;
+  width: 700px;
+}
+
+.tsc14{
+  margin-left: 25px;
+  width: 720px;
+}
+
+.dix1 p{
+  color: rgba(255, 159, 13, 1) ;
+}
+
+.dix1 s{
+  color: rgb(119, 118, 118) ;
+}
+
+
+.mnlctl{
+  display: flex;
+  width: 1000px;
+  margin-left: 120px;
+  margin-top: 40px;
+}
+
+.mtl2{
+  display: flex;
+  width: 1000px;
+  margin-left: 120px;
+  margin-top: 40px;
+}
+
+.nlcvs{
+  position: absolute;
+background: rgb(255, 221, 170);
+padding: 10px;
+
+}
+
+.iops{
+  margin-left: 1220px;
+  margin-top: -2800px;
+
+}
+
+.ksasa{
+  background-color:rgb(255, 159, 13, 1);
+  height: 40px;
+  width: 40px;
+  position: absolute;
+  top: 88%;
+  margin-left: 200px;
+
+}
