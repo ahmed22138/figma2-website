@@ -12,6 +12,15 @@ export default {
         title: 'Food Name',
       },
       {
+        name:'slug',
+        type:'slug',
+        title:'Slug',
+        options:{
+            source:'name',
+            maxLength:96
+        }
+      },
+      {
         name: 'category',
         type: 'string',
         title: 'Category',
