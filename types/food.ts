@@ -21,7 +21,7 @@ export interface Food {
    originalPrice?:number;
 
    slug:{
-    _type:'slug';
+    _type:"slug"
     current:string;
    }
    }
