@@ -1,4 +1,4 @@
-"use client"
+'use client'
 
 import  { useEffect, useState } from 'react'
 import {Food} from '../../../types/food'
@@ -75,7 +75,7 @@ const Shop = () => {
         {
             food.map((food) => (
                 <div key={food._id}>
-                  <Link href={`/blog/${food.slug.current}`}>
+                  <Link href={`/blogs/${food.slug.current}`}>
                     {food.image && (
                         <Image
                         src={urlFor(food.image).url()}

@@ -47,7 +47,7 @@ export default async function FoodPage({params}:FoodPageProps) {
    <div className="grid grid-cols-1 sm:grid-cols-2 gap-16">
    <div className="aspect-square">
 
-    {food?.image &&
+    {food.image &&
     <Image
     src={urlFor(food.image).url()}
     alt={food.name}
@@ -60,13 +60,13 @@ export default async function FoodPage({params}:FoodPageProps) {
    </div>
    <div className="flex flex-col gap-4 mt-20">
     <h1 className="text-4xl font-bold">
-      {food?.name}
+      {food.name}
     </h1>
     <p className="text-2xl">
-      {food?.description}
+      {food.description}
     </p>
     <p className="text-xl font-medium">
-    ${food?.price}  <s>${food?.originalPrice}</s>
+    ${food.price}  <s>${food.originalPrice}</s>
     </p>
    
 
